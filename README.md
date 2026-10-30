@@ -21,3 +21,5 @@ layout responsivo (3 colunas → 2 colunas → menu em gaveta).
 ## Apenas demonstrativo
 Perfil/Configurações/Sair não fazem nada; "Compartilhar" só copia um link fictício;
 "Histórico" mostra as publicações em que você votou; publicações criadas somem ao recarregar.
+
+*REALIZADO COM CLAUDE CODE. Feito para um melhor entendimento no estudo*
